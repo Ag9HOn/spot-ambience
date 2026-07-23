@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-spotambience
+Exec=harbour-spotambience
+Name=Spot Ambience
+
+[X-Sailjail]
+OrganizationName=fi.petteri
+ApplicationName=SpotAmbience
+ExecDBus=harbour-spotambience --dbus
+Permissions=Internet;Ambience

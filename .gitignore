@@ -1,0 +1,10 @@
+build/
+build-*/
+RPMS/
+SOURCES/
+BUILD/
+BUILDROOT/
+*.log
+*.core
+artifacts/
+.DS_Store
